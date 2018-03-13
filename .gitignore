@@ -1,0 +1,42 @@
+
+###### Project Directory ######
+/vendor
+/public/uploads
+/node_modules
+/storage/logs
+/storage/debugbar
+/storage/fonts
+/public/uploads/images
+
+###### Editors ######
+.externalToolBuilders/
+.project
+/nbproject
+.buildpath/
+.settings/
+.phpintel
+
+###### FILES ######
+Homestead.yaml
+Homestead.json
+.buildpath
+.styleci.yml
+.travis.yml
+.coveralls.yml
+.settings
+build.xml
+*.xml
+*.sublime-workspace
+*.sublime-project
+*.zip
+*.ini
+*.php-tmp
+*.key
+
+###### Project Files ######
+.env
+.local.env
+gulpfile.js
+info.php
+html/
+composer.lock
